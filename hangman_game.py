@@ -382,10 +382,3 @@ def signal_handler(sig, frame): #function for signal handling like ctrl+c interr
 signal.signal(signal.SIGINT, signal_handler)    #for signal handling
 
 start(use)
-
-#Try/Except
-#function best practices
-#ask Rapture for data
-#submit
-#school work: diary, lesson plan, lesson notes
-#next alphacode task
